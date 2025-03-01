@@ -1,6 +1,7 @@
 import { Box, Typography } from "@mui/material";
 import React from "react";
 
+
 export default function NoData() {
   return (
     <Box
@@ -19,7 +20,7 @@ export default function NoData() {
           style={{ objectFit: "contain" }}
           width={"100%"}
           src={
-            "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/error-no-search-results_2353c5.png"
+            "https://img.freepik.com/free-vector/glitch-error-404-page_23-2148076763.jpg?size=338&ext=jpg"
           }
         />
         <Box>
