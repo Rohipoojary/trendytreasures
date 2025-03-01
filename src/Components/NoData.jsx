@@ -20,7 +20,7 @@ export default function NoData() {
           style={{ objectFit: "contain" }}
           width={"100%"}
           src={
-            "https://img.freepik.com/free-vector/glitch-error-404-page_23-2148076763.jpg?size=338&ext=jpg"
+            "https://img.freepik.com/free-vector/glitch-error-404-page_23-2148076763.jpg?size=338&ext=jpgt"
           }
         />
         <Box>
